@@ -12,16 +12,13 @@ namespace API.Controllers
     [Route("api/[controller]")]
 
     [ApiController]
-    [Authorize]
+    //[Authorize]
 
     public class LookupController : ControllerBase
     {
-
         private IServiceUnitOfWork _serviceUnitOfWork;
         private readonly IConfiguration _configuration;
         private IHttpContextAccessor _httpContextAccessor;
-
-
         public LookupController(IServiceUnitOfWork serviceUnitOfWork, IConfiguration configuration, IHttpContextAccessor httpContextAccessor)
             
         {
