@@ -1,0 +1,30 @@
+<div class="container">
+  <p-toast></p-toast>  
+  <h1>Item Entry</h1>
+    <form [formGroup]="itemForm" (ngSubmit)="onSubmit()">
+      <label for="item-name">Name</label>
+      <input type="text" id="name" formControlName="name" />
+
+  
+      <label for="sku-code">SKU Code </label>
+      <input type="text" id="sku-code" formControlName="skuCode" />
+  
+      <label for="qty">Quantity </label>
+      <input type="number" id="qty" formControlName="qty" min="1" />
+     
+  
+      <label for="cost-price">Cost Price</label>
+      <input type="number" id="costPrice" formControlName="costPrice" step="0.01" />
+  
+  
+      <label for="msrp-price">MSRP Price</label>
+      <input type="number" id="msrpPrice" formControlName="msrpPrice" step="0.01" />
+  
+      <label for="warehouse">Warehouse</label>
+      <input type="text" id="warehouse"  hidden formControlName="warehouse" />
+    
+  
+      <button type="submit" [disabled]="itemForm.invalid">Submit</button>
+    </form>
+  </div>
+  

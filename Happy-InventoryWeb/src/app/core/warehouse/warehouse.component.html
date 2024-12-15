@@ -1,0 +1,75 @@
+<div class="registration-container">
+    <div class="card">
+      <h2>Warehouse Entry</h2>
+      <form [formGroup]="warehouseForm" (ngSubmit)="onSubmit()">
+        
+        <!-- Warehouse Name -->
+        <div class="p-field">
+          <label for="name">Warehouse Name</label>
+          <input
+            id="name"
+            type="text"
+            pInputText
+            formControlName="name"
+            [ngClass]="{ 'ng-dirty': 'f.name.dirty'}"
+          />
+          <div >
+            <small  class="p-error">
+              Warehouse name is required.
+            </small>
+          </div>
+        </div>
+  
+        <!-- Address -->
+        <div class="p-field">
+          <label for="address">Address</label>
+          <textarea
+            id="address"
+            pInputTextarea
+            formControlName="address"
+            rows="3"
+            [ngClass]="{ 'ng-dirty': 'f.address.dirty '}"
+          ></textarea>
+          <div >
+            <small class="p-error">
+              Address is required.
+            </small>
+          </div>
+        </div>
+  
+        <!-- City -->
+        <div class="p-field">
+          <label for="city">City</label>
+          <input
+            id="city"
+            type="text"
+            pInputText
+            formControlName="city"
+            [ngClass]="{ 'ng-dirty': 'f.city.dirty' }"
+          />
+          <div>
+            <small *ngIf="'f.city?.hasError('required')'" class="p-error">
+              City is required.
+            </small>
+          </div>
+        </div>
+  
+        <!-- Country -->
+        <div class="p-field">
+          <label for="country">Country</label>
+          <p-dropdown
+            id="countryCode"
+            formControlName="countryCode"
+            [options]="countries"
+            [ngClass]="{ 'ng-dirty': 'f.country.dirty'}"
+            placeholder="Select a country"
+          ></p-dropdown>
+         
+        </div>
+  
+        <!-- Submit Button -->
+        <button type="submit" pButton label="Save" [disabled]="warehouseForm.invalid"></button>
+      </form>
+    </div>
+  </div>
+  

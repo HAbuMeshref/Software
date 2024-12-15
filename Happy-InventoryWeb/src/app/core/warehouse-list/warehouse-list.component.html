@@ -1,0 +1,33 @@
+<div class="registration-container">
+    <div class="card">
+      <h2>Warehouse List</h2>
+     <!-- Button to add a new warehouse -->
+     <button pButton label="Add New Warehouse" icon="pi pi-plus" style="width: 150px; height: 50px; right: auto;" (click)="addNewWarehouse()"></button>
+      <!-- p-table for displaying warehouse data -->
+      <p-table [value]="warehouses" [paginator]="true" [rows]="5" [responsive]="true" [sortMode]="'single'" [rowsPerPageOptions]="[5, 10, 25]" [showCurrentPageReport]="true" currentPageReportTemplate="Showing {first} to {last} of {totalRecords} data">
+        <ng-template pTemplate="header">
+          <tr>
+            <th pSortableColumn="name">Name <p-sortIcon field="name"></p-sortIcon></th>
+            <th pSortableColumn="address">Address <p-sortIcon field="address"></p-sortIcon></th>
+            <th pSortableColumn="city">City <p-sortIcon field="city"></p-sortIcon></th>
+            <th pSortableColumn="country">Country <p-sortIcon field="countryCode"></p-sortIcon></th>
+            <th>Actions</th>
+          </tr>
+        </ng-template>
+        <ng-template pTemplate="body" let-data>
+          <tr>
+            <td>{{ data.name }}</td>
+            <td>{{ data.address }}</td>
+            <td>{{ data.city }}</td>
+            <td>{{ data.countryCode }}</td>
+            <td>
+              <button pButton label="View Items" icon="pi pi-search" (click)="viewWarehouseItems(data.id)"></button>
+            </td>
+          </tr>
+        </ng-template>
+      </p-table>
+  
+   
+    </div>
+  </div>
+  

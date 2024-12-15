@@ -1,0 +1,47 @@
+<div class="registration-container">
+
+<div class="card">
+  <h2>User Registration</h2>
+  <form [formGroup]="AddUserForm" (ngSubmit)="onSubmit()" class="user-form">
+    <div class="p-field">
+      <label for="email">Email</label>
+      <input type="email"  formControlName="email"  id="email" pInputText name="email" required />
+    </div>
+
+    <div class="p-field">
+      <label for="name">Name</label>
+      <input type="text" id="name"  formControlName="name" pInputText  name="name" required />
+    </div>
+
+    <div class="p-field">
+      <label for="password">Password</label>
+      <p-password id="password" formControlName="password"  name="password" required ></p-password>
+    </div>
+
+    <div class="p-field">
+      <label for="confirmPassword">Confirm Password</label>
+      <p-password id="confirmPassword" formControlName="confirmPassword"  name="confirmPassword" required ></p-password>
+    </div>
+
+    <div class="p-field-checkbox">
+      <p-checkbox name="active" label="Active" formControlName="active"  [binary]="true"></p-checkbox>
+    </div>
+
+    <div class="p-field">
+      <label for="role">Role</label>
+      <p-dropdown 
+        id="role" 
+        name="role" 
+        [options]="roles" 
+        optionLabel="label" 
+        placeholder="Select a role" formControlName="role"
+        >
+      </p-dropdown>
+    </div>
+
+    <div class="p-d-flex p-jc-center">
+      <button pButton type="submit" label="Submit" ></button>
+    </div>
+  </form>
+</div>
+</div>

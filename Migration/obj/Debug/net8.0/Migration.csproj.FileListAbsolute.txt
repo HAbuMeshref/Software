@@ -1,0 +1,14 @@
+C:\Users\h.abumeshref\source\repos\API\Migration\bin\Debug\net8.0\Migration.deps.json
+C:\Users\h.abumeshref\source\repos\API\Migration\bin\Debug\net8.0\Migration.runtimeconfig.json
+C:\Users\h.abumeshref\source\repos\API\Migration\bin\Debug\net8.0\Migration.dll
+C:\Users\h.abumeshref\source\repos\API\Migration\bin\Debug\net8.0\Migration.pdb
+C:\Users\h.abumeshref\source\repos\API\Migration\obj\Debug\net8.0\Migration.csproj.AssemblyReference.cache
+C:\Users\h.abumeshref\source\repos\API\Migration\obj\Debug\net8.0\Migration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\h.abumeshref\source\repos\API\Migration\obj\Debug\net8.0\Migration.AssemblyInfoInputs.cache
+C:\Users\h.abumeshref\source\repos\API\Migration\obj\Debug\net8.0\Migration.AssemblyInfo.cs
+C:\Users\h.abumeshref\source\repos\API\Migration\obj\Debug\net8.0\Migration.csproj.CoreCompileInputs.cache
+C:\Users\h.abumeshref\source\repos\API\Migration\obj\Debug\net8.0\Migration.dll
+C:\Users\h.abumeshref\source\repos\API\Migration\obj\Debug\net8.0\refint\Migration.dll
+C:\Users\h.abumeshref\source\repos\API\Migration\obj\Debug\net8.0\Migration.pdb
+C:\Users\h.abumeshref\source\repos\API\Migration\obj\Debug\net8.0\Migration.genruntimeconfig.cache
+C:\Users\h.abumeshref\source\repos\API\Migration\obj\Debug\net8.0\ref\Migration.dll

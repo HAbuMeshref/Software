@@ -1,0 +1,37 @@
+<div class="registration-container">
+    <div class="card">
+      <h2>Warehouse Item List</h2>
+      <p-table [value]="ItemList" [paginator]="true" [lazy]="true"
+      [loading]="lazyLoading" [totalRecords]="totalRecords"  (onLazyLoad)="loadItems($event)" 
+       [responsive]="true" [sortMode]="'single'" [rowsPerPageOptions]="[5, 10, 25]" 
+       [showCurrentPageReport]="true"  >
+        <ng-template pTemplate="header">
+          <tr>
+            <th pSortableColumn="name">Name <p-sortIcon field="name"></p-sortIcon></th>
+            <th pSortableColumn="skuCode">SKU Code <p-sortIcon field="skuCode"></p-sortIcon></th>
+            <th pSortableColumn="qty">QTY <p-sortIcon field="qty"></p-sortIcon></th>
+            <th pSortableColumn="costPrice">Cost Price <p-sortIcon field="costPrice"></p-sortIcon></th>
+            <th pSortableColumn="msrpPrice">MSRP Price <p-sortIcon field="msrpPrice"></p-sortIcon></th>
+
+            <th>Actions</th>
+          </tr>
+        </ng-template>
+        <ng-template pTemplate="body" let-data>
+          <tr>
+            <td>{{ data.name }}</td>
+            <td>{{ data.skuCode }}</td>
+            <td style="text-align: right;">{{ data.qty }}</td>
+            <td style="text-align: right;">{{ data.costPrice }}</td>
+            <td style="text-align: right;">{{ data.msrpPrice }}</td>
+            <td>
+              <button pButton label="Add Item" icon="pi pi-add" (click)="viewWarehouseItems(data.warehouseId)"></button>
+            </td>
+          </tr>
+        </ng-template>
+      </p-table>
+  
+      <p-dialog  [(visible)]="showPopup" [modal]="true"  [closable]="true" [resizable]="false"  [style]="{'margin-top':'100px','min-height':'auto','width':'700px','max-height':'auto'}">
+         <app-warehouse-item  [Id]="selectedId" (closePopup)="closePopup()"></app-warehouse-item></p-dialog>
+    </div>
+  </div>
+  

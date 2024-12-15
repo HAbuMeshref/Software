@@ -1,0 +1,470 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\h.abumeshref\\source\\repos\\API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A316CFE9-2D27-4D45-8526-5C7F9A71648C}|Service\\Service.csproj|c:\\users\\h.abumeshref\\source\\repos\\api\\service\\services\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A316CFE9-2D27-4D45-8526-5C7F9A71648C}|Service\\Service.csproj|solutionrelative:service\\services\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A316CFE9-2D27-4D45-8526-5C7F9A71648C}|Service\\Service.csproj|c:\\users\\h.abumeshref\\source\\repos\\api\\service\\services\\warehouseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A316CFE9-2D27-4D45-8526-5C7F9A71648C}|Service\\Service.csproj|solutionrelative:service\\services\\warehouseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A316CFE9-2D27-4D45-8526-5C7F9A71648C}|Service\\Service.csproj|c:\\users\\h.abumeshref\\source\\repos\\api\\service\\services\\warehouseitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A316CFE9-2D27-4D45-8526-5C7F9A71648C}|Service\\Service.csproj|solutionrelative:service\\services\\warehouseitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6018C2EC-C4B5-4E69-B667-9E210952AD17}|API\\API.csproj|c:\\users\\h.abumeshref\\source\\repos\\api\\api\\controllers\\warehousecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6018C2EC-C4B5-4E69-B667-9E210952AD17}|API\\API.csproj|solutionrelative:api\\controllers\\warehousecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A316CFE9-2D27-4D45-8526-5C7F9A71648C}|Service\\Service.csproj|c:\\users\\h.abumeshref\\source\\repos\\api\\service\\interfaces\\iusersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A316CFE9-2D27-4D45-8526-5C7F9A71648C}|Service\\Service.csproj|solutionrelative:service\\interfaces\\iusersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A23DF1D-9F2E-4042-8A11-4C0F9FDD2116}|Domain\\Domain.csproj|c:\\users\\h.abumeshref\\source\\repos\\api\\domain\\context\\inventorymanagdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A23DF1D-9F2E-4042-8A11-4C0F9FDD2116}|Domain\\Domain.csproj|solutionrelative:domain\\context\\inventorymanagdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A23DF1D-9F2E-4042-8A11-4C0F9FDD2116}|Domain\\Domain.csproj|c:\\users\\h.abumeshref\\source\\repos\\api\\domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A23DF1D-9F2E-4042-8A11-4C0F9FDD2116}|Domain\\Domain.csproj|solutionrelative:domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A23DF1D-9F2E-4042-8A11-4C0F9FDD2116}|Domain\\Domain.csproj|c:\\users\\h.abumeshref\\source\\repos\\api\\domain\\common\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A23DF1D-9F2E-4042-8A11-4C0F9FDD2116}|Domain\\Domain.csproj|solutionrelative:domain\\common\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A23DF1D-9F2E-4042-8A11-4C0F9FDD2116}|Domain\\Domain.csproj|c:\\users\\h.abumeshref\\source\\repos\\api\\domain\\common\\authenticationdelegatinghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A23DF1D-9F2E-4042-8A11-4C0F9FDD2116}|Domain\\Domain.csproj|solutionrelative:domain\\common\\authenticationdelegatinghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694435CF-1CEE-4AE9-BE7C-EF6FE3A172EC}|Migration\\Migration.csproj|c:\\users\\h.abumeshref\\source\\repos\\api\\migration\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694435CF-1CEE-4AE9-BE7C-EF6FE3A172EC}|Migration\\Migration.csproj|solutionrelative:migration\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694435CF-1CEE-4AE9-BE7C-EF6FE3A172EC}|Migration\\Migration.csproj|c:\\users\\h.abumeshref\\source\\repos\\api\\migration\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694435CF-1CEE-4AE9-BE7C-EF6FE3A172EC}|Migration\\Migration.csproj|solutionrelative:migration\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6018C2EC-C4B5-4E69-B667-9E210952AD17}|API\\API.csproj|c:\\users\\h.abumeshref\\source\\repos\\api\\api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6018C2EC-C4B5-4E69-B667-9E210952AD17}|API\\API.csproj|solutionrelative:api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A23DF1D-9F2E-4042-8A11-4C0F9FDD2116}|Domain\\Domain.csproj|c:\\users\\h.abumeshref\\source\\repos\\api\\domain\\models\\warehouseitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A23DF1D-9F2E-4042-8A11-4C0F9FDD2116}|Domain\\Domain.csproj|solutionrelative:domain\\models\\warehouseitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6018C2EC-C4B5-4E69-B667-9E210952AD17}|API\\API.csproj|c:\\users\\h.abumeshref\\source\\repos\\api\\api\\controllers\\warehouseitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6018C2EC-C4B5-4E69-B667-9E210952AD17}|API\\API.csproj|solutionrelative:api\\controllers\\warehouseitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A316CFE9-2D27-4D45-8526-5C7F9A71648C}|Service\\Service.csproj|c:\\users\\h.abumeshref\\source\\repos\\api\\service\\services\\lookupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A316CFE9-2D27-4D45-8526-5C7F9A71648C}|Service\\Service.csproj|solutionrelative:service\\services\\lookupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A316CFE9-2D27-4D45-8526-5C7F9A71648C}|Service\\Service.csproj|c:\\users\\h.abumeshref\\source\\repos\\api\\service\\services\\lookupdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A316CFE9-2D27-4D45-8526-5C7F9A71648C}|Service\\Service.csproj|solutionrelative:service\\services\\lookupdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6018C2EC-C4B5-4E69-B667-9E210952AD17}|API\\API.csproj|c:\\users\\h.abumeshref\\source\\repos\\api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6018C2EC-C4B5-4E69-B667-9E210952AD17}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6018C2EC-C4B5-4E69-B667-9E210952AD17}|API\\API.csproj|c:\\users\\h.abumeshref\\source\\repos\\api\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6018C2EC-C4B5-4E69-B667-9E210952AD17}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6018C2EC-C4B5-4E69-B667-9E210952AD17}|API\\API.csproj|c:\\users\\h.abumeshref\\source\\repos\\api\\api\\handler\\loggingworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6018C2EC-C4B5-4E69-B667-9E210952AD17}|API\\API.csproj|solutionrelative:api\\handler\\loggingworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6018C2EC-C4B5-4E69-B667-9E210952AD17}|API\\API.csproj|c:\\users\\h.abumeshref\\source\\repos\\api\\api\\controllers\\lookupdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6018C2EC-C4B5-4E69-B667-9E210952AD17}|API\\API.csproj|solutionrelative:api\\controllers\\lookupdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A316CFE9-2D27-4D45-8526-5C7F9A71648C}|Service\\Service.csproj|c:\\users\\h.abumeshref\\source\\repos\\api\\service\\services\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A316CFE9-2D27-4D45-8526-5C7F9A71648C}|Service\\Service.csproj|solutionrelative:service\\services\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6018C2EC-C4B5-4E69-B667-9E210952AD17}|API\\API.csproj|c:\\users\\h.abumeshref\\source\\repos\\api\\api\\controllers\\lookupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6018C2EC-C4B5-4E69-B667-9E210952AD17}|API\\API.csproj|solutionrelative:api\\controllers\\lookupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A316CFE9-2D27-4D45-8526-5C7F9A71648C}|Service\\Service.csproj|c:\\users\\h.abumeshref\\source\\repos\\api\\service\\interfaces\\iwarehouseitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A316CFE9-2D27-4D45-8526-5C7F9A71648C}|Service\\Service.csproj|solutionrelative:service\\interfaces\\iwarehouseitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A316CFE9-2D27-4D45-8526-5C7F9A71648C}|Service\\Service.csproj|c:\\users\\h.abumeshref\\source\\repos\\api\\service\\interfaces\\ilookupdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A316CFE9-2D27-4D45-8526-5C7F9A71648C}|Service\\Service.csproj|solutionrelative:service\\interfaces\\ilookupdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153EDC9D-711E-42E6-8941-45510DBB296E}|Repository\\Repository.csproj|c:\\users\\h.abumeshref\\source\\repos\\api\\repository\\interfaces\\ilookupdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{153EDC9D-711E-42E6-8941-45510DBB296E}|Repository\\Repository.csproj|solutionrelative:repository\\interfaces\\ilookupdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A23DF1D-9F2E-4042-8A11-4C0F9FDD2116}|Domain\\Domain.csproj|c:\\users\\h.abumeshref\\source\\repos\\api\\domain\\common\\selectitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A23DF1D-9F2E-4042-8A11-4C0F9FDD2116}|Domain\\Domain.csproj|solutionrelative:domain\\common\\selectitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6018C2EC-C4B5-4E69-B667-9E210952AD17}|API\\API.csproj|c:\\users\\h.abumeshref\\source\\repos\\api\\api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6018C2EC-C4B5-4E69-B667-9E210952AD17}|API\\API.csproj|solutionrelative:api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A23DF1D-9F2E-4042-8A11-4C0F9FDD2116}|Domain\\Domain.csproj|c:\\users\\h.abumeshref\\source\\repos\\api\\domain\\models\\lookup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A23DF1D-9F2E-4042-8A11-4C0F9FDD2116}|Domain\\Domain.csproj|solutionrelative:domain\\models\\lookup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IWarehouseItemService.cs",
+              "DocumentMoniker": "C:\\Users\\h.abumeshref\\source\\repos\\API\\Service\\Interfaces\\IWarehouseItemService.cs",
+              "RelativeDocumentMoniker": "Service\\Interfaces\\IWarehouseItemService.cs",
+              "ToolTip": "C:\\Users\\h.abumeshref\\source\\repos\\API\\Service\\Interfaces\\IWarehouseItemService.cs",
+              "RelativeToolTip": "Service\\Interfaces\\IWarehouseItemService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T13:12:57.815Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersService.cs",
+              "DocumentMoniker": "C:\\Users\\h.abumeshref\\source\\repos\\API\\Service\\Services\\UsersService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\UsersService.cs",
+              "ToolTip": "C:\\Users\\h.abumeshref\\source\\repos\\API\\Service\\Services\\UsersService.cs",
+              "RelativeToolTip": "Service\\Services\\UsersService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T12:49:06.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUsersService.cs",
+              "DocumentMoniker": "C:\\Users\\h.abumeshref\\source\\repos\\API\\Service\\Interfaces\\IUsersService.cs",
+              "RelativeDocumentMoniker": "Service\\Interfaces\\IUsersService.cs",
+              "ToolTip": "C:\\Users\\h.abumeshref\\source\\repos\\API\\Service\\Interfaces\\IUsersService.cs",
+              "RelativeToolTip": "Service\\Interfaces\\IUsersService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAtwAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:33:00.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WarehouseController.cs",
+              "DocumentMoniker": "C:\\Users\\h.abumeshref\\source\\repos\\API\\API\\Controllers\\WarehouseController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\WarehouseController.cs",
+              "ToolTip": "C:\\Users\\h.abumeshref\\source\\repos\\API\\API\\Controllers\\WarehouseController.cs",
+              "RelativeToolTip": "API\\Controllers\\WarehouseController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAADwvygAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T12:49:06.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WarehouseItemService.cs",
+              "DocumentMoniker": "C:\\Users\\h.abumeshref\\source\\repos\\API\\Service\\Services\\WarehouseItemService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\WarehouseItemService.cs",
+              "ToolTip": "C:\\Users\\h.abumeshref\\source\\repos\\API\\Service\\Services\\WarehouseItemService.cs",
+              "RelativeToolTip": "Service\\Services\\WarehouseItemService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwCAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T13:13:49.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WarehouseService.cs",
+              "DocumentMoniker": "C:\\Users\\h.abumeshref\\source\\repos\\API\\Service\\Services\\WarehouseService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\WarehouseService.cs",
+              "ToolTip": "C:\\Users\\h.abumeshref\\source\\repos\\API\\Service\\Services\\WarehouseService.cs",
+              "RelativeToolTip": "Service\\Services\\WarehouseService.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAADwvyAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T19:56:41.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\h.abumeshref\\source\\repos\\API\\Domain\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\h.abumeshref\\source\\repos\\API\\Domain\\Models\\User.cs",
+              "RelativeToolTip": "Domain\\Models\\User.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T13:20:30.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "C:\\Users\\h.abumeshref\\source\\repos\\API\\Domain\\Common\\BaseModel.cs",
+              "RelativeDocumentMoniker": "Domain\\Common\\BaseModel.cs",
+              "ToolTip": "C:\\Users\\h.abumeshref\\source\\repos\\API\\Domain\\Common\\BaseModel.cs",
+              "RelativeToolTip": "Domain\\Common\\BaseModel.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T08:53:57.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InventoryManagDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\h.abumeshref\\source\\repos\\API\\Domain\\Context\\InventoryManagDbContext.cs",
+              "RelativeDocumentMoniker": "Domain\\Context\\InventoryManagDbContext.cs",
+              "ToolTip": "C:\\Users\\h.abumeshref\\source\\repos\\API\\Domain\\Context\\InventoryManagDbContext.cs",
+              "RelativeToolTip": "Domain\\Context\\InventoryManagDbContext.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAYwF4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T19:52:22.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthenticationDelegatingHandler.cs",
+              "DocumentMoniker": "C:\\Users\\h.abumeshref\\source\\repos\\API\\Domain\\Common\\AuthenticationDelegatingHandler.cs",
+              "RelativeDocumentMoniker": "Domain\\Common\\AuthenticationDelegatingHandler.cs",
+              "ToolTip": "C:\\Users\\h.abumeshref\\source\\repos\\API\\Domain\\Common\\AuthenticationDelegatingHandler.cs",
+              "RelativeToolTip": "Domain\\Common\\AuthenticationDelegatingHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T17:57:05.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\h.abumeshref\\source\\repos\\API\\Migration\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Migration\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\h.abumeshref\\source\\repos\\API\\Migration\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Migration\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T19:53:33.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\h.abumeshref\\source\\repos\\API\\Migration\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Migration\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\h.abumeshref\\source\\repos\\API\\Migration\\Models\\User.cs",
+              "RelativeToolTip": "Migration\\Models\\User.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T19:53:38.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\h.abumeshref\\source\\repos\\API\\API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\h.abumeshref\\source\\repos\\API\\API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEoAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T07:32:21.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WarehouseItem.cs",
+              "DocumentMoniker": "C:\\Users\\h.abumeshref\\source\\repos\\API\\Domain\\Models\\WarehouseItem.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\WarehouseItem.cs",
+              "ToolTip": "C:\\Users\\h.abumeshref\\source\\repos\\API\\Domain\\Models\\WarehouseItem.cs",
+              "RelativeToolTip": "Domain\\Models\\WarehouseItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T10:02:22.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WarehouseItemController.cs",
+              "DocumentMoniker": "C:\\Users\\h.abumeshref\\source\\repos\\API\\API\\Controllers\\WarehouseItemController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\WarehouseItemController.cs",
+              "ToolTip": "C:\\Users\\h.abumeshref\\source\\repos\\API\\API\\Controllers\\WarehouseItemController.cs",
+              "RelativeToolTip": "API\\Controllers\\WarehouseItemController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAhwDkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T08:53:11.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\h.abumeshref\\source\\repos\\API\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\h.abumeshref\\source\\repos\\API\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAwJYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T12:49:06.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LookupService.cs",
+              "DocumentMoniker": "C:\\Users\\h.abumeshref\\source\\repos\\API\\Service\\Services\\LookupService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\LookupService.cs",
+              "ToolTip": "C:\\Users\\h.abumeshref\\source\\repos\\API\\Service\\Services\\LookupService.cs",
+              "RelativeToolTip": "Service\\Services\\LookupService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T13:54:18.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\h.abumeshref\\source\\repos\\API\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Users\\h.abumeshref\\source\\repos\\API\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-13T13:52:57.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LookupDetailService.cs",
+              "DocumentMoniker": "C:\\Users\\h.abumeshref\\source\\repos\\API\\Service\\Services\\LookupDetailService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\LookupDetailService.cs",
+              "ToolTip": "C:\\Users\\h.abumeshref\\source\\repos\\API\\Service\\Services\\LookupDetailService.cs",
+              "RelativeToolTip": "Service\\Services\\LookupDetailService.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T12:33:06.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoggingWorker.cs",
+              "DocumentMoniker": "C:\\Users\\h.abumeshref\\source\\repos\\API\\API\\Handler\\LoggingWorker.cs",
+              "RelativeDocumentMoniker": "API\\Handler\\LoggingWorker.cs",
+              "ToolTip": "C:\\Users\\h.abumeshref\\source\\repos\\API\\API\\Handler\\LoggingWorker.cs",
+              "RelativeToolTip": "API\\Handler\\LoggingWorker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T15:28:16.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LookupDetailsController.cs",
+              "DocumentMoniker": "C:\\Users\\h.abumeshref\\source\\repos\\API\\API\\Controllers\\LookupDetailsController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\LookupDetailsController.cs",
+              "ToolTip": "C:\\Users\\h.abumeshref\\source\\repos\\API\\API\\Controllers\\LookupDetailsController.cs",
+              "RelativeToolTip": "API\\Controllers\\LookupDetailsController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAwEYAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T13:54:18.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AuthServices.cs",
+              "DocumentMoniker": "C:\\Users\\h.abumeshref\\source\\repos\\API\\Service\\Services\\AuthServices.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\AuthServices.cs",
+              "ToolTip": "C:\\Users\\h.abumeshref\\source\\repos\\API\\Service\\Services\\AuthServices.cs",
+              "RelativeToolTip": "Service\\Services\\AuthServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T12:49:06.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LookupController.cs",
+              "DocumentMoniker": "C:\\Users\\h.abumeshref\\source\\repos\\API\\API\\Controllers\\LookupController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\LookupController.cs",
+              "ToolTip": "C:\\Users\\h.abumeshref\\source\\repos\\API\\API\\Controllers\\LookupController.cs",
+              "RelativeToolTip": "API\\Controllers\\LookupController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T12:49:06.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ILookupDetailService.cs",
+              "DocumentMoniker": "C:\\Users\\h.abumeshref\\source\\repos\\API\\Service\\Interfaces\\ILookupDetailService.cs",
+              "RelativeDocumentMoniker": "Service\\Interfaces\\ILookupDetailService.cs",
+              "ToolTip": "C:\\Users\\h.abumeshref\\source\\repos\\API\\Service\\Interfaces\\ILookupDetailService.cs",
+              "RelativeToolTip": "Service\\Interfaces\\ILookupDetailService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T12:32:43.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ILookupDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\h.abumeshref\\source\\repos\\API\\Repository\\Interfaces\\ILookupDetailRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interfaces\\ILookupDetailRepository.cs",
+              "ToolTip": "C:\\Users\\h.abumeshref\\source\\repos\\API\\Repository\\Interfaces\\ILookupDetailRepository.cs",
+              "RelativeToolTip": "Repository\\Interfaces\\ILookupDetailRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T12:33:43.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SelectItem.cs",
+              "DocumentMoniker": "C:\\Users\\h.abumeshref\\source\\repos\\API\\Domain\\Common\\SelectItem.cs",
+              "RelativeDocumentMoniker": "Domain\\Common\\SelectItem.cs",
+              "ToolTip": "C:\\Users\\h.abumeshref\\source\\repos\\API\\Domain\\Common\\SelectItem.cs",
+              "RelativeToolTip": "Domain\\Common\\SelectItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T12:36:44.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Lookup.cs",
+              "DocumentMoniker": "C:\\Users\\h.abumeshref\\source\\repos\\API\\Domain\\Models\\Lookup.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Lookup.cs",
+              "ToolTip": "C:\\Users\\h.abumeshref\\source\\repos\\API\\Domain\\Models\\Lookup.cs",
+              "RelativeToolTip": "Domain\\Models\\Lookup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T13:07:00.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\h.abumeshref\\source\\repos\\API\\API\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\h.abumeshref\\source\\repos\\API\\API\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "API\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T12:49:06.922Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

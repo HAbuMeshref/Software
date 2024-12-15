@@ -1,0 +1,84 @@
+2024-12-15 18:38:38.995 +03:00 [INF] User profile is available. Using 'C:\Users\h.abumeshref\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-12-15 18:38:39.108 +03:00 [INF] LoggingWorker started at "2024-12-15T18:38:39.1019650+03:00"
+2024-12-15 18:38:39.113 +03:00 [INF] Worker running at: "2024-12-15T18:38:39.1112970+03:00"
+2024-12-15 18:38:39.248 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44355/swagger/index.html - null null
+2024-12-15 18:38:39.304 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-15 18:38:39.306 +03:00 [INF] Hosting environment: Development
+2024-12-15 18:38:39.307 +03:00 [INF] Content root path: C:\Users\h.abumeshref\source\repos\API\API
+2024-12-15 18:38:39.481 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44355/_framework/aspnetcore-browser-refresh.js - null null
+2024-12-15 18:38:39.481 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44355/_vs/browserLink - null null
+2024-12-15 18:38:39.483 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44355/swagger/index.html - 200 null text/html;charset=utf-8 239.8622ms
+2024-12-15 18:38:39.488 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44355/_framework/aspnetcore-browser-refresh.js - 200 13742 application/javascript; charset=utf-8 3.2598ms
+2024-12-15 18:38:39.537 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44355/_vs/browserLink - 200 null text/javascript; charset=UTF-8 55.7587ms
+2024-12-15 18:38:39.583 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44355/swagger/v1/swagger.json - null null
+2024-12-15 18:38:39.691 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44355/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 108.1928ms
+2024-12-15 18:38:40.120 +03:00 [INF] Worker running at: "2024-12-15T18:38:40.1182639+03:00"
+2024-12-15 18:38:41.134 +03:00 [INF] Worker running at: "2024-12-15T18:38:41.1267953+03:00"
+2024-12-15 18:38:42.151 +03:00 [INF] Worker running at: "2024-12-15T18:38:42.1486268+03:00"
+2024-12-15 18:38:43.158 +03:00 [INF] Worker running at: "2024-12-15T18:38:43.1561238+03:00"
+2024-12-15 18:38:44.168 +03:00 [INF] Worker running at: "2024-12-15T18:38:44.1662035+03:00"
+2024-12-15 18:38:45.179 +03:00 [INF] Worker running at: "2024-12-15T18:38:45.1758100+03:00"
+2024-12-15 18:38:46.190 +03:00 [INF] Worker running at: "2024-12-15T18:38:46.1864748+03:00"
+2024-12-15 18:38:47.198 +03:00 [INF] Worker running at: "2024-12-15T18:38:47.1969402+03:00"
+2024-12-15 18:38:48.207 +03:00 [INF] Worker running at: "2024-12-15T18:38:48.2042796+03:00"
+2024-12-15 18:38:49.216 +03:00 [INF] Worker running at: "2024-12-15T18:38:49.2139562+03:00"
+2024-12-15 18:38:50.234 +03:00 [INF] Worker running at: "2024-12-15T18:38:50.2284998+03:00"
+2024-12-15 18:38:51.236 +03:00 [INF] Worker running at: "2024-12-15T18:38:51.2350659+03:00"
+2024-12-15 18:38:52.251 +03:00 [INF] Worker running at: "2024-12-15T18:38:52.2467755+03:00"
+2024-12-15 18:38:53.254 +03:00 [INF] Worker running at: "2024-12-15T18:38:53.2529278+03:00"
+2024-12-15 18:38:54.260 +03:00 [INF] Worker running at: "2024-12-15T18:38:54.2562611+03:00"
+2024-12-15 18:38:55.272 +03:00 [INF] Worker running at: "2024-12-15T18:38:55.2699558+03:00"
+2024-12-15 18:38:56.287 +03:00 [INF] Worker running at: "2024-12-15T18:38:56.2837286+03:00"
+2024-12-15 18:38:57.299 +03:00 [INF] Worker running at: "2024-12-15T18:38:57.2901078+03:00"
+2024-12-15 18:38:57.758 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44355/api/LookupDetails/GetBylookupCode?lookupCode=1 - null null
+2024-12-15 18:38:57.831 +03:00 [INF] Executing endpoint 'API.Controllers.LookupDetailsController.GetBylookupCode (API)'
+2024-12-15 18:38:57.846 +03:00 [INF] Route matched with {action = "GetBylookupCode", controller = "LookupDetails"}. Executing controller action with signature InventoryManagement.Domain.Interfaces.IResponseResult`1[System.Collections.Generic.IEnumerable`1[InventoryManagement.Domain.Common.SelectItem]] GetBylookupCode(Int64) on controller API.Controllers.LookupDetailsController (API).
+2024-12-15 18:38:58.036 +03:00 [INF] Executing action method API.Controllers.LookupDetailsController.GetBylookupCode (API) - Validation state: "Valid"
+2024-12-15 18:38:59.581 +03:00 [INF] Worker running at: "2024-12-15T18:38:59.5546705+03:00"
+2024-12-15 18:39:00.368 +03:00 [INF] Executed DbCommand (11ms) [Parameters=[@__lookupCode_0='?' (DbType = Int64)], CommandType='"Text"', CommandTimeout='30']
+SELECT "l"."ID", "l"."CREATION_DATE", "l"."CREATION_USER", "l"."DESTINATION_NAME", "l"."DESTINATION_VALUE", "l"."LOOKUP_CODE", "l"."MODIFICATION_DATE", "l"."MODIFICATION_USER", "l"."SOURCE_NAME"
+FROM "Lookup_Details" AS "l"
+WHERE CAST("l"."LOOKUP_CODE" AS INTEGER) = @__lookupCode_0
+2024-12-15 18:39:00.379 +03:00 [INF] Performing a task at "2024-12-15T18:39:00.3786572+03:00"
+2024-12-15 18:39:00.383 +03:00 [INF] Executed action method API.Controllers.LookupDetailsController.GetBylookupCode (API), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 2344.0951ms.
+2024-12-15 18:39:00.387 +03:00 [INF] Executing ObjectResult, writing value of type 'InventoryManagement.Domain.Common.ResponseResult`1[[System.Collections.Generic.IEnumerable`1[[InventoryManagement.Domain.Common.SelectItem, Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-12-15 18:39:00.402 +03:00 [INF] Executed action API.Controllers.LookupDetailsController.GetBylookupCode (API) in 2553.6625ms
+2024-12-15 18:39:00.402 +03:00 [INF] Executed endpoint 'API.Controllers.LookupDetailsController.GetBylookupCode (API)'
+2024-12-15 18:39:00.410 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44355/api/LookupDetails/GetBylookupCode?lookupCode=1 - 200 null application/json; charset=utf-8 2651.7287ms
+2024-12-15 18:39:00.599 +03:00 [INF] Worker running at: "2024-12-15T18:39:00.5923918+03:00"
+2024-12-15 18:39:01.602 +03:00 [INF] Worker running at: "2024-12-15T18:39:01.6007980+03:00"
+2024-12-15 18:39:02.617 +03:00 [INF] Worker running at: "2024-12-15T18:39:02.6149823+03:00"
+2024-12-15 18:39:03.632 +03:00 [INF] Worker running at: "2024-12-15T18:39:03.6268435+03:00"
+2024-12-15 18:39:04.636 +03:00 [INF] Worker running at: "2024-12-15T18:39:04.6339384+03:00"
+2024-12-15 18:39:05.648 +03:00 [INF] Worker running at: "2024-12-15T18:39:05.6458780+03:00"
+2024-12-15 18:39:06.653 +03:00 [INF] Worker running at: "2024-12-15T18:39:06.6519370+03:00"
+2024-12-15 18:39:07.662 +03:00 [INF] Worker running at: "2024-12-15T18:39:07.6559802+03:00"
+2024-12-15 18:39:08.669 +03:00 [INF] Worker running at: "2024-12-15T18:39:08.6666660+03:00"
+2024-12-15 18:39:09.672 +03:00 [INF] Worker running at: "2024-12-15T18:39:09.6704138+03:00"
+2024-12-15 18:39:10.674 +03:00 [INF] Worker running at: "2024-12-15T18:39:10.6732207+03:00"
+2024-12-15 18:39:11.687 +03:00 [INF] Worker running at: "2024-12-15T18:39:11.6851911+03:00"
+2024-12-15 18:39:12.696 +03:00 [INF] Worker running at: "2024-12-15T18:39:12.6940731+03:00"
+2024-12-15 18:39:13.706 +03:00 [INF] Worker running at: "2024-12-15T18:39:13.7020217+03:00"
+2024-12-15 18:39:14.721 +03:00 [INF] Worker running at: "2024-12-15T18:39:14.7136271+03:00"
+2024-12-15 18:39:15.741 +03:00 [INF] Worker running at: "2024-12-15T18:39:15.7361327+03:00"
+2024-12-15 18:39:16.752 +03:00 [INF] Worker running at: "2024-12-15T18:39:16.7468905+03:00"
+2024-12-15 18:39:17.756 +03:00 [INF] Worker running at: "2024-12-15T18:39:17.7546320+03:00"
+2024-12-15 18:39:18.765 +03:00 [INF] Worker running at: "2024-12-15T18:39:18.7601970+03:00"
+2024-12-15 18:39:19.771 +03:00 [INF] Worker running at: "2024-12-15T18:39:19.7678952+03:00"
+2024-12-15 18:39:20.783 +03:00 [INF] Worker running at: "2024-12-15T18:39:20.7814986+03:00"
+2024-12-15 18:39:21.799 +03:00 [INF] Worker running at: "2024-12-15T18:39:21.7936791+03:00"
+2024-12-15 18:39:22.807 +03:00 [INF] Worker running at: "2024-12-15T18:39:22.8031214+03:00"
+2024-12-15 18:39:23.819 +03:00 [INF] Worker running at: "2024-12-15T18:39:23.8171727+03:00"
+2024-12-15 18:39:24.834 +03:00 [INF] Worker running at: "2024-12-15T18:39:24.8283622+03:00"
+2024-12-15 18:39:25.842 +03:00 [INF] Worker running at: "2024-12-15T18:39:25.8403952+03:00"
+2024-12-15 18:39:26.852 +03:00 [INF] Worker running at: "2024-12-15T18:39:26.8511217+03:00"
+2024-12-15 18:39:27.865 +03:00 [INF] Worker running at: "2024-12-15T18:39:27.8617651+03:00"
+2024-12-15 18:39:28.879 +03:00 [INF] Worker running at: "2024-12-15T18:39:28.8764089+03:00"
+2024-12-15 18:39:29.891 +03:00 [INF] Worker running at: "2024-12-15T18:39:29.8880499+03:00"
+2024-12-15 18:39:30.899 +03:00 [INF] Worker running at: "2024-12-15T18:39:30.8977216+03:00"
+2024-12-15 18:39:31.910 +03:00 [INF] Worker running at: "2024-12-15T18:39:31.9081538+03:00"
+2024-12-15 18:39:32.923 +03:00 [INF] Worker running at: "2024-12-15T18:39:32.9214534+03:00"
+2024-12-15 18:39:33.934 +03:00 [INF] Worker running at: "2024-12-15T18:39:33.9318400+03:00"
+2024-12-15 18:39:34.944 +03:00 [INF] Worker running at: "2024-12-15T18:39:34.9426882+03:00"
+2024-12-15 18:39:35.952 +03:00 [INF] Worker running at: "2024-12-15T18:39:35.9495313+03:00"
+2024-12-15 18:39:36.960 +03:00 [INF] Worker running at: "2024-12-15T18:39:36.9583984+03:00"s
