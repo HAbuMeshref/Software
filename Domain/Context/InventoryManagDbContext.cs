@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 using Domain.Models;
 using Microsoft.Extensions.Hosting;
+using Domain.Common;
+using Microsoft.Extensions.Configuration;
 
 namespace Domain.Context;
 
@@ -37,7 +39,8 @@ public partial class InventoryManagDbContext : DbContext
 
         if (_environment.IsDevelopment())
         {
-            optionsBuilder.UseSqlite("Data Source=C:\\Users\\h.abumeshref\\source\\repos\\Inventory Management\\Happy Company.db");
+            string connectionString = SharedSettings.ConnectionString;
+            optionsBuilder.UseSqlite(connectionString);
         }
         else
         {

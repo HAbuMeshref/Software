@@ -47,6 +47,7 @@ var configuration = builder.Configuration;
 #region SharedSettings
 SharedSettings.JwtExpireDays = configuration.GetSection("SharedSettings").GetValue<int>("JwtExpireDays");
 SharedSettings.Secret = configuration.GetSection("SharedSettings").GetValue<string>("Secret");
+SharedSettings.ConnectionString = configuration.GetSection("SharedSettings").GetValue<string>("ConnectionString");
 
 #endregion
 
