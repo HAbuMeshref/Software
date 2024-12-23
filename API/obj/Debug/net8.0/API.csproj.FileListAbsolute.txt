@@ -103,3 +103,4 @@ C:\Users\h.abumeshref\source\repos\API\API\bin\Debug\net8.0\Serilog.dll
 C:\Users\h.abumeshref\source\repos\API\API\bin\Debug\net8.0\Serilog.Sinks.Console.dll
 C:\Users\h.abumeshref\source\repos\API\API\bin\Debug\net8.0\Serilog.Sinks.File.dll
 C:\Users\h.abumeshref\source\repos\API\API\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\h.abumeshref\source\repos\API\API\obj\Debug\net8.0\API.sourcelink.json

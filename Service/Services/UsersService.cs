@@ -173,7 +173,7 @@ namespace Service.Services
             }
             catch (Exception ex)
             {
-                return null
+                return null;
             }
             //var splitPassword = user.Password.Split(",");
             //byte[] byteArray = splitPassword.Select(s => byte.Parse(s)).ToArray();
