@@ -8,7 +8,7 @@ namespace Domain.Context;
 
 public partial class InventoryManagDbContext : DbContext
 {
-
+  // Scaffold-DbContext "Data Source=C:\Users\h.abumeshref\source\repos\Inventory Management\Happy Company.db" Microsoft.EntityFrameworkCore.Sqlite -OutputDir Models -Context ApplicationDbContext -ContextDir Data -Force
     private readonly IHostEnvironment _environment;
 
     public InventoryManagDbContext()
